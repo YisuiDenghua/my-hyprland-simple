@@ -1,4 +1,8 @@
 # my-hyprland-simple
+
+![image](https://github.com/YisuiDenghua/my-hyprland-simple/assets/102890144/0e1e52d7-2fcc-46f9-a4e3-fb58463194ec)
+
+
 A simple configuration of Hyprland
 
 Requirements： Nix, Home Manager with Flake enabled, Linux.
