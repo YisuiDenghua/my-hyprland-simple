@@ -1,7 +1,8 @@
 # my-hyprland-simple
 A simple configuration of Hyprland
 
-Requirements, Nix, Home Manager with Flake enabled, Linux
+Requirements： Nix, Home Manager with Flake enabled, Linux.
+
 NixOS is not strongly required. 
 
 Files here should be put into `~/hm/`, if you prefer somewhere else, you should change the directories in `flake.nix` and `hyprland/hyprland.conf` file.
